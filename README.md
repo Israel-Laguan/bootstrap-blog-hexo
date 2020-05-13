@@ -129,15 +129,15 @@ Icons from:
 Feel free to fork this project and improve it
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Israel-Laguan/<repo>?style=for-the-badge
-[contributors-url]: https://github.com/Israel-Laguan/<repo>/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Israel-Laguan/<repo>?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Israel-Laguan/bootstrap-blog-hexo?style=for-the-badge
+[contributors-url]: https://github.com/Israel-Laguan/bootstrap-blog-hexo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Israel-Laguan/bootstrap-blog-hexo?style=for-the-badge
 [forks-url]: https://github.com/Israel-Laguan/<repo>/network/members
-[stars-shield]: https://img.shields.io/github/stars/Israel-Laguan/<repo>?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Israel-Laguan/bootstrap-blog-hexo?style=for-the-badge
 [stars-url]: https://github.com/Israel-Laguan/<repo>/stargazers
-[issues-open-shield]: https://img.shields.io/github/issues/Israel-Laguan/<repo>?style=for-the-badge
-[issues-url]: https://github.com/Israel-Laguan/<repo>/issues
-[issues-closed-shield]: https://img.shields.io/github/issues-closed/Israel-Laguan/<repo>?style=for-the-badge
+[issues-open-shield]: https://img.shields.io/github/issues/Israel-Laguan/bootstrap-blog-hexo?style=for-the-badge
+[issues-url]: https://github.com/Israel-Laguan/bootstrap-blog-hexo/issues
+[issues-closed-shield]: https://img.shields.io/github/issues-closed/Israel-Laguan/bootstrap-blog-hexo?style=for-the-badge
 [badge-framework]: https://img.shields.io/badge/framework-here-9cf?style=for-the-badge
 [framework-url]: https://google.com
 [contributions-welcome]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
